@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@mipmap/ditu">
+
+    <ImageView
+        android:id="@+id/dishu_1"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/dishu_2"
+        android:layout_marginLeft="148dp"
+        android:layout_marginStart="148dp"
+        android:layout_x="258dp"
+        android:layout_y="305dp"
+        android:src="@mipmap/dishu" />
+
+    <ImageView
+        android:id="@+id/dishu_2"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/dishu_3"
+        android:layout_marginEnd="145dp"
+        android:layout_marginRight="145dp"
+        android:layout_marginTop="-198dp"
+        android:layout_x="147dp"
+        android:layout_y="425dp"
+        android:src="@mipmap/dishu" />
+
+    <ImageView
+        android:id="@+id/dishu_3"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="198dp"
+        android:layout_marginEnd="154dp"
+        android:layout_marginRight="154dp"
+        android:layout_x="278dp"
+        android:layout_y="436dp"
+        android:src="@mipmap/dishu" />
+
+    <ImageView
+        android:id="@+id/dishu_4"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="89dp"
+        android:layout_marginEnd="57dp"
+        android:layout_marginRight="57dp"
+        android:layout_x="191dp"
+        android:layout_y="364dp"
+        android:src="@mipmap/dishu" />
+
+    <ImageView
+        android:id="@+id/dishu_5"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="158dp"
+        android:layout_marginEnd="39dp"
+        android:layout_marginRight="39dp"
+        android:layout_x="297dp"
+        android:layout_y="359dp"
+        android:src="@mipmap/dishu" />
+
+    <ImageView
+        android:id="@+id/dishu_6"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="216dp"
+        android:layout_marginEnd="78dp"
+        android:layout_marginRight="78dp"
+        android:layout_x="184dp"
+        android:layout_y="312dp"
+        android:src="@mipmap/dishu" />
+
+
+
+
+
+</AbsoluteLayout>
